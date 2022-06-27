@@ -1,4 +1,4 @@
-# Junior-College-Result-Generation-fillable-PDF-
+# Junior-College-Result-consolidated-studentwise-marks-sheet-Generation-PDF-
 This is Desktop Application Build Using Python,
 1)To Generates result in PDF formate
 2) To store the students data in database(SQlite3) as well as it generates CSV file of the student data. 
